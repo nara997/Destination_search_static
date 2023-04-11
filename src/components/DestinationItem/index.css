@@ -1,0 +1,21 @@
+.destination-item{
+    margin: 10px;
+}
+
+.heading{
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.destination-image{
+    width: 250px;
+}
+
+.destination-name{
+    font-family: Roboto;
+    font-size: 16px;
+    margin-top: 5px;
+    font-weight: bold;
+    
+}

@@ -1,6 +1,34 @@
-.appContainer{
-  display: flex;
-  background-color: azure;
-  flex-direction: column;
-  align-items: center;
+table{
+    border: 4px solid #00e7ff;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.table-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 20px; 
+}
+
+.uss-euro-container{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.currency-logo{
+    height: 50px;
+    width: 50px;
+}
+.currency-container{
+    display: flex;
+}
+
+.coin-type{
+    text-align: left;
+}
+
+.currency{
+    text-align: right;
 }
